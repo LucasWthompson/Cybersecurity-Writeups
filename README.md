@@ -38,4 +38,4 @@ I'm currently a Security Analyst with 2+ years of experience and a growing focus
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-thompson-3a83a81b8/)
 - [GitHub](https://github.com/LucasWthompson)
-- Email: thompson.lucas.w@gmail.com
+- Email: lucaswthompson0@gmail.com
