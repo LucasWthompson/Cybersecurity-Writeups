@@ -17,8 +17,7 @@ These writeups focus on **techniques, tools, and takeaways** rather than just an
 - [Cookie Jar](./picoCTF-CookieJar.md)
 
 ### Hack The Box
-- [Basic Pentest](./HackTheBox-BasicPentest.md) – Recon, privilege escalation via SUID
-
+- Coming soon!
 ---
 
 ## 🛠️ Tools I Use Regularly
