@@ -9,12 +9,12 @@ These writeups focus on **techniques, tools, and takeaways** rather than just an
 ## 🗂️ Index
 
 ### TryHackMe Rooms
-- [Blue](./Blue.md) – Windows enumeration, SMB, privilege escalation
-- [Wreath](./Wreath.md) – TBD
+- Coming soon!
+
 
 ### picoCTF Challenges
-- [SQL Injection 1](./picoCTF-SQLi.md)
-- [Cookie Jar](./picoCTF-CookieJar.md)
+- Coming soon!
+
 
 ### Hack The Box
 - Coming soon!
