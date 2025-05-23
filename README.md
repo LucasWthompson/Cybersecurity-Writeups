@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Writeups
+# 🛡️ CTF Writeups
 
 Welcome! This is a curated collection of my personal writeups from platforms like **TryHackMe**, **picoCTF**, and **Hack The Box**, created as part of my ongoing growth in cybersecurity and offensive security.
 
